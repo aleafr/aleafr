@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Micaela Freitas 👋
 
-<!--
-**aleafr/aleafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Profissional em transição para Data Analytics  
+📊 Formação em Python, SQL, Tableau e Power BI  
+🏭 Experiência em logística e operações industriais  
+📍 Setúbal, Portugal
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+- Python
+- SQL
+- Pandas
+- Tableau
+- Power BI
+- Jupyter Notebook
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+🔹 Sprint 5 – Dashboard Web com Streamlit  
+🔹 Projetos de análise de dados e visualização  
+🔹 Estudos de SQL e Business Intelligence
+
+## Objetivo
+Procuro desenvolver carreira na área de análise de dados, aplicando competências analíticas e experiência operacional para apoiar decisões baseadas em dados.
